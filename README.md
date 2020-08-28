@@ -32,11 +32,10 @@
 
 # Class GitHub Table 
 
-|Name                     |Class Section        |GitHub ID             |website for a GitHub repo                                |  
-|:------------------------|:--------------------|:---------------------|:--------------------------------------------------------|  
-| Jung In Kim             | Section 001         | jikim413             | <https://jikim413.github.io/>                           |  
-
-
+|Name                     |Class Section        |GitHub ID             |website for a GitHub repo                                | Class day and time                 |  
+|:------------------------|:--------------------|:---------------------|:--------------------------------------------------------|------------------------------------| 
+| Jung In Kim             | Section 001         | jikim413             | <https://jikim413.github.io/>                           |                                    | 
+| Colin Ng                | Section 003         | 5pazzem              | <https://5pazzem.github.io/Something/>                  | Wednesday, Friday 1:25pm - 2:15pm  |                      | 
 
 # Integration of RStudio with Git
 
